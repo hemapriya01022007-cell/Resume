@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>S Hemapriya - Resume</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 25px 35px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+      border-radius: 5px;
+    }
+
+    h1, h2 {
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+
+    h1 {
+      font-size: 28px;
+      color: #222;
+      border-bottom: 2px solid #444;
+      padding-bottom: 8px;
+    }
+
+    h2 {
+      font-size: 20px;
+      color: #444;
+      margin-top: 25px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    p {
+      margin: 6px 0;
+    }
+
+    ul {
+      list-style-type: square;
+      margin: 8px 0 15px 20px;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .contact {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>S Hemapriya</h1>
+    <p class="contact">
+      Bachelor’s Student | TJS College of Arts and Science <br>
+      Email: yourname@example.com | Phone: +91-XXXXXXXXXX
+    </p>
+
+    <div class="section">
+      <h2>Objective</h2>
+      <p>
+        To develop my skills in coding, communication, and teamwork while contributing positively to the organization I work with.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p><strong>Bachelor’s Degree</strong> - TJS College of Arts and Science<br>
+      Currently pursuing</p>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>Strong coding skills</li>
+        <li>Quick learner and attentive listener</li>
+        <li>Good communication abilities</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Strengths</h2>
+      <ul>
+        <li>Adaptable and willing to learn</li>
+        <li>Focused and detail-oriented</li>
+        <li>Team player with good collaboration skills</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Activities & Interests</h2>
+      <ul>
+        <li>Exploring new coding challenges</li>
+        <li>Engaging in academic and extracurricular activities</li>
+        <li>Improving communication and leadership skills</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
